@@ -30,8 +30,6 @@ use "yorik1984/more-friendly-snippets"
 Plug 'yorik1984/more-friendly-snippets'
 ```
 
-##### NOTE: Using [nvim-compe](https://github.com/hrsh7th/nvim-compe) with [vim-vsnip](https://github.com/hrsh7th/vim-vsnip) on the videos.
-
 ## Credits
 
 A good portion of the snippets have been forked from the following repositories:
