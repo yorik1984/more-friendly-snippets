@@ -1,5 +1,11 @@
 # Friendly Snippets
 
+## ℹ️ Info
+
+**Temporarily repo for contributing.**
+
+All snippets included to main of Friendly Snippets. 
+
 Additional Snippets collection for [Friendly Snippets](https://github.com/rafamadriz/friendly-snippets)
 
 ### Snippets for:
@@ -24,10 +30,10 @@ Use your plugin manager of choice, e.g.
 
 ```lua
 -- Packer
-use "yorik1984/more-friendly-snippets"
+use "rafamadriz/friendly-snippets"
 
 -- Plug
-Plug 'yorik1984/more-friendly-snippets'
+Plug 'rafamadriz/friendly-snippets'
 ```
 
 ## Credits
